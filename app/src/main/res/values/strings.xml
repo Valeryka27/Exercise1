@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercise1</string>
+    <string name="type_hint">Type your message here...</string>
+    <string name="Preview_Button_Text">PREVIEW</string>
+    <string name="emailButton">EMAIL</string>
+    <string name="noInputError">No input found</string>
+    <string name="subject">Exercise1</string>
+    <string name="noAppErr">No Email app found</string>
+</resources>

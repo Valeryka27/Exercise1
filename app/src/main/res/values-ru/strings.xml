@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Упражнение1</string>
+    <string name="type_hint">Введите сообщение...</string>
+    <string name="Preview_Button_Text">Предварительный просмотр</string>
+    <string name="emailButton">Отправить письмо</string>
+    <string name="noInputError">Не введено ни одного символа</string>
+    <string name="subject">Упражнение1</string>
+    <string name="noAppErr">Не найдено приложение для электронной почты</string>
+</resources>
