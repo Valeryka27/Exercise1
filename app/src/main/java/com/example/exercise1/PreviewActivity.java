@@ -44,11 +44,11 @@ public class PreviewActivity extends AppCompatActivity {
 
         if (intent.resolveActivity(getPackageManager()) != null) {
             startActivity(intent);
-            Log.i(TAG, "E-mail composed.");
+            Log.i(TAG, "E-mail composed");
         }
         else {
             Toast.makeText(this, t.getText().toString(), Toast.LENGTH_LONG).show();
-            Log.e(TAG, "No E-mail app found.");
+            Log.e(TAG, "No E-mail app found");
         }
     }
 }
